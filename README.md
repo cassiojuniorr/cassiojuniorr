@@ -23,10 +23,11 @@ const skills =
 }
 
 ```
+##
 
 ![Cássio Júnior's GitHub stats](https://github-readme-stats.vercel.app/api?username=cassiojuniorr&show_icons=true&theme=dracula&count_private=true)
 
-<h3 align="left">Would you like to find me?</h3>
+## Would you like to find me?
 <p align="left">
 <a href="https://www.linkedin.com/in/cássio-júnior" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="profcassio" /></a>
 
