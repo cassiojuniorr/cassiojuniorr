@@ -29,8 +29,12 @@ const skills =
 <h3 align="left">Would you like to find me?</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/cássio-júnior" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="profcassio" /></a>
+
 ```js
-<p>Email: cassiospcjunior@gmail.com</p>
+ const info =
+{
+  Email: cassiospcjunior@gmail.com,
+}
 ```
 </p>
 
@@ -110,4 +114,4 @@ const skills =
   </tbody>
 </table>
 
-Apaixonado por tecnologia e sempre querendo aprender mais.
+I love technology and i want to learn more.
