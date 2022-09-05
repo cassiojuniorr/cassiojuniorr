@@ -1,9 +1,30 @@
-## Oi! Eu sou o Cássio Júnior <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" width="24px">
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cássio-júnior/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/helder_dsa/)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/helderdsa/)
+## Oi! <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" width="24px">
 
-![Helder GitHub stats](https://github-readme-stats.vercel.app/api?username=helderdsa&show_icons=true&theme=dracula&count_private=true)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cássio-júnior/)
+
+## const name = 'Cássio Júnior';
+## document.write("Hello World");
+
+## var status = 
+## { 
+##  learning : [JavaScript, React, Laravel, Docker],
+##  interests: [Education, Research, Information Security, Programming]
+## }
+
+## const skills = 
+## {
+##  languages :[Php, Javascript, C#, HTML],
+  
+##  ide       :[Vs Code, PhpStorm, repl.it, Visual Studio, Netbeans],
+  
+##  frameworks:[Bootstrap, .NET, Laravel, React, Bootstrap, Tailwind],
+  
+##  platforms :[Amazon Web Services, Docker Container, Linux, macOS],
+  
+##  cicd      :[Github Workflows]
+## }
+
+![Cássio Júnior's GitHub stats](https://github-readme-stats.vercel.app/api?username=helderdsa&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png" width="24">
 
