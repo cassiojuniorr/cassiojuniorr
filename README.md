@@ -1,28 +1,28 @@
 ## Oi! <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" width="24px">
 
+```js
+const name = 'Cássio Júnior';
+document.write("Hello World");
+
+var status = 
+{ 
+  learning : [JavaScript, React, Laravel, Docker],
+  interests: [Education, Research, Information Security, Programming]
+}
+
+const skills = 
+{
+  languages :[Php, Javascript, C#, HTML],
+  
+  ide       :[Vs Code, PhpStorm, repl.it, Visual Studio, Netbeans],
+  
+  platforms :[Amazon Web Services, Docker Container, Linux, macOS],
+  
+  cicd      :[Github Workflows]
+}
+
+```
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cássio-júnior/)
-
-## const name = 'Cássio Júnior';
-## document.write("Hello World");
-
-## var status = 
-## { 
-##  learning : [JavaScript, React, Laravel, Docker],
-##  interests: [Education, Research, Information Security, Programming]
-## }
-
-## const skills = 
-## {
-##  languages :[Php, Javascript, C#, HTML],
-  
-##  ide       :[Vs Code, PhpStorm, repl.it, Visual Studio, Netbeans],
-  
-##  frameworks:[Bootstrap, .NET, Laravel, React, Bootstrap, Tailwind],
-  
-##  platforms :[Amazon Web Services, Docker Container, Linux, macOS],
-  
-##  cicd      :[Github Workflows]
-## }
 
 ![Cássio Júnior's GitHub stats](https://github-readme-stats.vercel.app/api?username=helderdsa&show_icons=true&theme=dracula&count_private=true)
 
