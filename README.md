@@ -7,26 +7,34 @@ document.write("Hello World");
 var status = 
 { 
   learning : [JavaScript, React, Laravel, Docker],
-  interests: [Education, Research, Information Security, Programming]
+  interests: [Information Security, Programming],
+  languages: [Portugues, Learning English],
 }
 
 const skills = 
 {
-  languages :[Php, Javascript, C#, HTML],
+  Programming Languages :[Php, Javascript, C#, HTML],
   
   ide       :[Vs Code, PhpStorm, repl.it, Visual Studio, Netbeans],
   
-  platforms :[Amazon Web Services, Docker Container, Linux, macOS],
+  platforms :[Docker Container, Linux],
   
   cicd      :[Github Workflows]
 }
 
 ```
+
+![Cássio Júnior's GitHub stats](https://github-readme-stats.vercel.app/api?username=cassiojuniorr&show_icons=true&theme=dracula&count_private=true)
+
+<h3 align="left">Would you like to find me?</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/cássio-júnior" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="profcassio" /></a>
+<p>Email: cassiospcjunior@gmail.com</p>
+</p>
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cássio-júnior/)
 
-![Cássio Júnior's GitHub stats](https://github-readme-stats.vercel.app/api?username=helderdsa&show_icons=true&theme=dracula&count_private=true)
-
-## Tecnologias que eu uso no meu dia <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png" width="24">
+## Languages and Tools: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png" width="24">
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -38,4 +46,4 @@ const skills =
   <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.
+Apaixonado por tecnologia e sempre querendo aprender mais.
