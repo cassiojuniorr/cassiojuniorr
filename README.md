@@ -108,8 +108,8 @@ const skills =
       <span><strong>ESLint</strong></span><br>
       <img height="32px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg">
       <td width="80px" align="center">
-      <span><strong>Bootstrap</strong></span><br>
-      <img height="32px" src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg">
+      // <span><strong>Bootstrap</strong></span><br>
+      // <img height="32px" src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg">
       </td>
     </tr>
   </tbody>
