@@ -13,7 +13,7 @@ var status =
 
 const skills = 
 {
-  Programming Languages :[Php, Javascript, C#, HTML],
+  Programming Languages :[Phyton, JavaScript, TypeScript, HTML],
   
   ide       :[Vs Code, PhpStorm, repl.it, Visual Studio, Netbeans],
   
