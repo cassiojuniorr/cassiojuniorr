@@ -6,7 +6,7 @@ document.write("Hello World");
 
 var status = 
 { 
-  learning : [JavaScript, React, Laravel, Docker],
+  learned : [JavaScript, Python, React, Laravel, Docker],
   interests: [Information Security, Programming],
   languages: [Portugues, Learning English],
 }
